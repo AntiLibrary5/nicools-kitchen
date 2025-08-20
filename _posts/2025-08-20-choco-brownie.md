@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Nikol's not so famous Choco Brownies"
-image: /assets/images/choco-brownie.jpg
+title: "The Brownies that no one knows about"
+image: /assets/images/choco-brownies.jpg
 prep_time: "15 mins"
 cook_time: "25 mins"
 servings: "8 people"
 video_link: "https://www.instagram.com/reel/DGsxunisQQrhqPG3_Cs_n822q0NGOyhHSibuLo0/?igsh=MWRlYnpod21uejYybA== "
 ---
 
-I don't normally like dessert but this chocolate brownie was so good, I only made it once!
+I don't normally like dessert but these chocolate brownies were so good, I only made them once!
 
 ## Ingredients
 
