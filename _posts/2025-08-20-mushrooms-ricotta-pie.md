@@ -31,5 +31,5 @@ On a hot canicule day in Grenoble, I was craving something refreshing. What's mo
 5. whip the ricotta with salt and truffle oil because i cannot afford real truffle
 6. Spread your cheese on the puff pastry and add on top of it your shrooms
 7. Do an egg wash for the edges for that shiny golden retriever....color
-8. Put in the over until cooked
+8. Put in the oven until cooked
 0. PREHEAT YOUR OVEN GURL or boy...
