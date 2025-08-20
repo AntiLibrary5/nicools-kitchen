@@ -138,3 +138,50 @@ a:hover {
     padding-left: 20px;
     margin: 20px 0;
 }
+
+/* Post Navigation (Previous/Next) */
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+    margin-top: 30px;
+    border-top: 1px solid #eee;
+}
+
+.post-nav-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    width: 48%;
+    color: #333;
+    border: 1px solid #eee;
+    padding: 15px;
+    border-radius: 8px;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.post-nav-item:hover {
+    background-color: #f9f9f9;
+    text-decoration: none;
+}
+
+.post-nav-next {
+    text-align: right;
+    justify-content: flex-end;
+}
+
+.nav-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-label {
+    font-size: 0.8em;
+    color: #888;
+    text-transform: uppercase;
+}
+
+.nav-arrow {
+    font-size: 2em;
+    color: #d6336c;
+}
