@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sardines that no one likes"
-image: /assets/images/soba-sardine.jpg
+image: /assets/images/soba-noodles-sardine.jpg
 prep_time: "depends on your skills"
 cook_time: "10 mins"
 servings: "3 people"
