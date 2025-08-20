@@ -1,0 +1,8 @@
+# Site settings
+title: Nicole's Kitchen
+description: "Quick bites and cozy delights from a home kitchen."
+author: "Nicole"
+
+# Build settings
+theme: minima # We can start with a basic theme and override it with our CSS
+markdown: kramdown

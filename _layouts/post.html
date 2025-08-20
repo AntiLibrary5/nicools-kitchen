@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<article class="post">
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+        {% if page.image %}
+            <img src="{{ page.image }}" alt="{{ page.title }}">
+        {% endif %}
+        <div class="post-meta">
+            <span><strong>Prep Time:</strong> {{ page.prep_time }}</span>
+            <span><strong>Cook Time:</strong> {{ page.cook_time }}</span>
+            <span><strong>Servings:</strong> {{ page.servings }}</span>
+        </div>
+    </header>
+
+    <div class="post-content">
+        {{ content }}
+    </div>
+
+    {% if page.video_link %}
+    <div class="video-container">
+        <h2>Watch The Reel!</h2>
+        <blockquote class="tiktok-embed">
+            <p>Check out the video for this recipe on Instagram/TikTok!</p>
+            <a href="{{ page.video_link }}" target="_blank">Watch Now: {{ page.video_link }}</a>
+        </blockquote>
+    </div>
+    {% endif %}
+
+</article>
