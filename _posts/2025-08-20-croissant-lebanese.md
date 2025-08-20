@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to butcher a french croissant?"
-image: /assets/images/leb-croissant.jpg
+image: /assets/images/leb-croissant-resized.jpg
 prep_time: "5 mins"
 cook_time: "zero mins"
 servings: "no one wants to eat that"
