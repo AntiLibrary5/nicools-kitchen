@@ -3,6 +3,9 @@ title: Nicole's Kitchen
 description: "Quick bites and cozy delights from a home kitchen."
 author: "Nicole"
 
+baseurl: "/nicools-kitchen"
+url: "https://AntiLibrary5.github.io" #"https://your-username.github.io"
+
 # Build settings
 theme: minima # We can start with a basic theme and override it with our CSS
 markdown: kramdown

@@ -5,9 +5,9 @@ title: Home
 <ul class="recipe-grid">
     {% for post in site.posts %}
         <li class="recipe-card">
-            <a href="{{ post.url }}">
+            <a href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.image %}
-                    <img src="{{ post.image }}" alt="{{ post.title }}">
+                    <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
                 {% endif %}
                 <div class="recipe-card-content">
                     <h3 class="recipe-card-title">{{ post.title }}</h3>
