@@ -32,4 +32,4 @@ January 27, 2024, If I recall...It was one of those dead cold days in Grenoble, 
 8. Get your cheese block, and cut it into two circles (imagine a tire, and you're cutting it to make two tires, you get the point right?)
 9. Place your, now two blocks of cheese, on top of the pasta mixture, the crust facing GOD
 10. Put the baking dish in a preheated oven until the cheese is all melted and the crust is golden brown (I'm drooling here)
-11. Once broiled, remove from the oven, wipe your tears of joy, and indulge of this culinary experience
+11. Once broiled, remove from the oven, wipe your tears of joy, and indulge on this culinary experience
