@@ -23,7 +23,7 @@ From the day I was born this way, my mom used to tell me that I'm "special", but
 
 ## Instructions
 
-1. Start by boiling the hell out of your lentils until their soggy
+1. Start by boiling the hell out of your lentils until they're soggy
 2. Drain your lentils, really well and put them in a bowl
 3. Add the salt, pepper and thyme and start smooshing the lentils with your hand until they form a paste (yep, quite disgusting) 
 4. Add a handfull of breadcrumbs to suck up all the moisture
