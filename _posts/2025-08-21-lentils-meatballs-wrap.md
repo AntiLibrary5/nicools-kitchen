@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lenses are bad for you, not lentils"
-image: /assets/images/lentils-meatballs-wrap.jpg
+image: /assets/images/lentils-meatballs-wrap-resized.jpg
 prep_time: "20 mins"
 cook_time: "30 mins"
 servings: "Everyone but me"
