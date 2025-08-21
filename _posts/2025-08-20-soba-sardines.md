@@ -8,7 +8,7 @@ servings: "3 people"
 video_link: "https://www.instagram.com/p/DI6folRsrOPm1X_cHpniH8Bql18oDFkbXF4qIs0/?img_index=2&igsh=Y2V1dDk5dDIwZ2N5 "
 ---
 
-I was complaining to my cousin Rachael that lives in Dubai, shoutout to her, that I was hungry. She told me to make this sardine pasta. I took her average advice and made it into a sublime dish, gorgeous, just like you are, yes, I'm quoting the pasta queen, and no she doesn't care.
+I was complaining to my cousin Rachael (btw check the mobie) that lives in Dubai, shoutout to her, that I was hungry. She told me to make this sardine pasta. I took her average advice and made it into a sublime dish, gorgeous, just like you are, yes, I'm quoting the pasta queen, and no she doesn't care.
 
 ## Ingredients
 
