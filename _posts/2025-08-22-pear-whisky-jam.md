@@ -8,7 +8,7 @@ servings: "Colocs de la Saint Joseph"
 video_link: "https://www.instagram.com/reel/DKW3T93MHK4JEpdXrcWnjkTfeUgA34_vcCzl940/?igsh=bTZqZWNmY3ZndnNp"
 ---
 
-Yesterday I payed a revisit to the tartiflette, a dish I adore, and made another dish that has nothing to do with it. But who are you to tell me not to call it "Tartiflette revisitée"
+Cecile's dad makes the best Jam in all of France. So I challenged him, without him knowing, to a jam throwdown, and then I threw down that jam! 
 
 ## Ingredients
 
