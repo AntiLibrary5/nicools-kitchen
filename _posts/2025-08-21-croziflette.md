@@ -28,7 +28,7 @@ January 27, 2024, If I recall...It was one of those dead cold days in Grenoble, 
 4. In parallel, boil up some water, and cook the crozets, they need a bit more than 15 minutes to cook
 5. To your bacon/onion mixture, add the creme fraiche and some black pepper and bring it to a boil 
 6. Now that the sauce is ready and the crozets are cooked, remove them from the heat
-7. In the baking dish, start layering one layer of crozets, one layer of bacon/onion untill your out of both of them
+7. In the baking dish, start layering one layer of crozets, one layer of bacon/onion untill you're out of both of them
 8. Get your cheese block, and cut it into two circles (imagine a tire, and you're cutting it to make two tires, you get the point right?)
 9. Place your, now two blocks of cheese, on top of the pasta mixture, the crust facing GOD
 10. Put the baking dish in a preheated oven until the cheese is all melted and the crust is golden brown (I'm drooling here)
