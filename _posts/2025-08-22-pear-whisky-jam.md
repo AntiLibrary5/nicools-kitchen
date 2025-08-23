@@ -33,6 +33,6 @@ Cecile's dad makes the best Jam in all of France. So I challenged him, without h
 3. 20 minutes in, mash your pears cubes with a fork and let them reduce for another 20 minutes. 
 4. Add your whisky and vanille and simmer for another 7 minutes. 
 5. Pour your jam into a jar, as clean as your are (just in case, this means a very clean jar)
-6> Let in cool upside down, and then store in the fridge> 
+6. Let it cool upside down, and then store in the fridge
 
 
