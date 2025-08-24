@@ -15,7 +15,6 @@ Un ptit matin là, je me reveil, je prends mon ptit café, dans mon ptit lit, pu
 * 1 tomate jaune
 * 1 tomate rouge
 * 1 tomate noire
-*Oui à la diversité*
 * Moutarde à la très ancienne
 * Chapelure
 * Un ptit onion rouge
