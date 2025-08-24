@@ -8,7 +8,7 @@ servings: "Looks"
 video_link: "I made this recipe back when I didn't post videos yet"
 ---
 
-I decided to go watch Barbie at Pathé Chavant, so obviously I had to sneak it some snacks, other than me. What's more suitable for watching Barbie than garlic pamersan chicken popcorn? You literally don't need to answer that.
+I decided to go watch Barbie at Pathé Chavant, so obviously I had to sneak in some snacks, other than me. What's more suitable for watching Barbie than garlic pamersan chicken popcorn? You literally don't need to answer that.
 
 ## Ingredients
 
