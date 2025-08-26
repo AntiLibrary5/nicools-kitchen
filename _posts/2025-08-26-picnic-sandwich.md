@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's go out and have these sandwich"
+title: "Let's go out and have these sandwiches"
 image: /assets/images/picnic-sandwich.jpg
 prep_time: "15 mins"
 cook_time: "0 mins"
