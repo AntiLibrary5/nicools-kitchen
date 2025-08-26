@@ -12,7 +12,7 @@ I was super bored that day, nothing out of the ordinary, and had an abundance of
 
 ## Ingredients
 
-* 1 cup of tea ma lady, I mean wotah ma lady
+* 1 cup of tea ma lady, I mean water ma lady
 * 1 cup of white vinegar
 * 1 tbsp sea salt
 * 1 tbsp sugar
