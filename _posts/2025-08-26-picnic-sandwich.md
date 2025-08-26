@@ -48,6 +48,6 @@ I am so grateful for Mr Sandwich for creating that concept. However, when it com
 4. Cut your juicy tomato into slices, lay it on the mozza
 5. Don't be tasteless, so salt, pepper and olive oil your tomatoes
 6. Close down your sandwich and that's a wrap 
-7. Now go to the parc, but on some music, enjoy your beer, your sandwich, the sun, the mosquitos and GRENOBLE baby
+7. Now go to the parc, put on some music, enjoy your beer, your sandwich, the sun, the mosquitos and GRENOBLE baby
 
 
