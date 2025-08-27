@@ -38,7 +38,7 @@ I am so grateful for Mr Sandwich for creating that concept. However, when it com
 6. Drizzle some olive oil and some balsamic
 7. Crack some fresh black pepper
 8. Sandwich it
-9. Take a bite for good luck, wrap it, but it in your picnic basket next to your IPA beer
+9. Take a bite for good luck, wrap it, put it in your picnic basket next to your IPA beer
 
 ### Sandwich number 2
 
