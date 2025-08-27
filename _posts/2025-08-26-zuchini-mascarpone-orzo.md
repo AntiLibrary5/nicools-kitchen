@@ -31,7 +31,7 @@ Sometimes I look in the mirror and ask: How am I this great? And oddly enough, t
 ## Instructions
 
 1. Great your zucchini using a greater (typos are on purpose)
-2. Great your garlic close with your zuccchini
+2. Great your garlic clove with your zuccchini
 3. Cover your pan with a generous amount of olive oil and heat it up
 4. Check the heat using your finger, if you get second degrees burns, you're good to go!
 5. Put your zucchini and garlic in the pan
