@@ -6,6 +6,7 @@ prep_time: "I forgot"
 cook_time: "Until golden brown"
 servings: "Le FLAM 38"
 video_link: "https://www.instagram.com/reel/DGX3dPFsgrTFG_eSe4ZL-ub1BB3Sp7Kul_S1eo0/?igsh=MWFnNXB1ZHp5bHhydQ== "
+tags: [Dessert]
 ---
 
 My utlimate fear in life, apart from my brain damaging hypochondria, is getting hungry with no food around. I had a soccer game, yes I play soccer with the best team on earth, and the place had zero food around. You guessed it, I freaked out, woke up at 6 am and baked this pie...just in case my eight-egg breakfast couldn't carry me through. 
