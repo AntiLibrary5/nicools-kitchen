@@ -4,9 +4,8 @@ title: All Categories
 ---
 
 <div class="tag-page-container">
-    <h1 class="page-title">All Recipe Categories</h1>
-
     <div class="tag-cloud">
+	    <a href="{{ site.baseurl }}/" class="tag-button">All Recipes</a>
         {% for tag in site.tags %}
             <a href="#{{ tag[0] | slugify }}" class="tag-button">{{ tag[0] }}</a>
         {% endfor %}
