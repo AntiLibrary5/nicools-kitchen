@@ -25,15 +25,15 @@ My utlimate fear in life, apart from my brain damaging hypochondria, is getting 
 
 ## Instructions
 
-1. As our Goddess Charli XCX said: I split the apple down symmetrical lines, so learn from her, and do that ttoo
+1. As our Goddess Charli XCX said: I split the apple down symmetrical lines, so learn from her, and do that too
 2. In a pan, melt the butter with some olive oil, we're keeping it healthy and balanced
-3. Add you apples and them cook for a couple of minutes
+3. Add you apples and let them cook for a couple of minutes
 4. Add a pinch of salt, cinnamon and the brown sugar and let the apple caramelize into hazel eyes
 5. Get a pie mold, oh it's mould not mold, just checked google
 6. Drizzle some olive oil onto the mold, and place your first puff Pastry
 7. Add your caramelized apples
 8. Get your second puff pastry and close down your pie
-9. Do an egg wash to the upper layer and the  sprinkle bronw sugar all over (all over the pie but not all over your kitchen) 
+9. Do an egg wash to the upper layer and then sprinkle bronw sugar all over (all over the pie but not all over your kitchen) 
 9. Place in a pre heated oven, for like 25 mns at 180? try that and if it doesn't work, it's all about trial and error girl, you got this
 
 
