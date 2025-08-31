@@ -6,6 +6,7 @@ prep_time: "5 mins"
 cook_time: "13 mins"
 servings: "I only cook for 1"
 video_link: "No video needed, the picture doesn't speak for itself"
+tags: [Non Vegetarian]
 ---
 
 If you know me well, you know that my bff is chatgpt. One day I asked her if Gorgon Zola was Emile Zola's wife, and to my surprise, turns out that Gorgonzola was actually a cheese. So I thanked her and went on a quest to buy Gorgonzola and make something useful out of it. 

@@ -6,6 +6,7 @@ prep_time: "5 mins"
 cook_time: "zero mins"
 servings: "no one wants to eat that"
 video_link: "https://www.instagram.com/reel/DKjlKjvMZ_cZUVxMK3EOZB6xoF5gDQKWD9YZvI0/?igsh=dmQwcHoxazhtd29t "
+tags: [Vegetarian]
 ---
 
 I remember that day, I had a conversation with a right wing french person and was so pissed, so I decided to vandalize their french croissant and make it Arab. 

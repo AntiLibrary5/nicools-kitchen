@@ -6,6 +6,7 @@ prep_time: "30 mins"
 cook_time: "15 mins"
 servings: "Looks"
 video_link: "I made this recipe back when I didn't post videos yet"
+tags: [Non Vegetarian]
 ---
 
 I decided to go watch Barbie at Pathé Chavant, so obviously I had to sneak in some snacks, other than me. What's more suitable for watching Barbie than garlic pamersan chicken popcorn? You literally don't need to answer that.

@@ -6,6 +6,7 @@ prep_time: "1.5 hours"
 cook_time: "50 mins"
 servings: "Colocs de la Saint Joseph"
 video_link: "https://www.instagram.com/reel/DKW3T93MHK4JEpdXrcWnjkTfeUgA34_vcCzl940/?igsh=bTZqZWNmY3ZndnNp"
+tags: [Dessert]
 ---
 
 Cecile's dad makes the best Jam in all of France. So I challenged him, without him knowing, to a jam throwdown, and then I threw down that jam! 

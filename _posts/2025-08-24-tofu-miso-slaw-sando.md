@@ -6,6 +6,7 @@ prep_time: "20 mins"
 cook_time: "20 mins"
 servings: "I'm removing the s from servings"
 video_link: "https://www.instagram.com/reel/DKziDnfNroce6voJL-UDh3vq1f1Aea-fA1Pm0I0/?igsh=dzRwc3Zqd2Rvb2Zo"
+tags: [Vegetarian]
 ---
 
 I really think that me and vegetarianism can be a thing. That breaded tofu, went straight from the supermarket, to my bag, to the fridge, to the cutting board, to the airfrier to my mouth, to my heart. I think it was love at last bite. 

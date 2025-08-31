@@ -6,6 +6,7 @@ prep_time: "30 mins"
 cook_time: "25 mins"
 servings: "All for me"
 video_link: "I will soon post the video, in the meantime, you can dream about it"
+tags: [Non Vegetarian]
 ---
 
 January 27, 2024, If I recall...It was one of those dead cold days in Grenoble, and I was looking for a hug. Didn't know that you could buy hugs from monoprix for such a fair price. That dish, Croziflette, hugged my soul and my stomach, and ever since, I was officially named by the people's republic of Savoie "Ambassadrice de la croziflette". (This is a payed partnership between Me and the crozets).

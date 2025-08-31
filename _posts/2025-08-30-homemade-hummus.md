@@ -6,6 +6,7 @@ prep_time: "15 mins"
 cook_time: "0 mins"
 servings: "The french people"
 video_link: "Made this in my PJs so it was not INSTA worthy"
+tags: [Vegetarian] 
 ---
 
 If you know me well (literally no one knows the next thing I'm gonna say, including myself), you know that my comfort food is baked potato, hard boiled eggs and hummus, eaten together. Since I'm not gonna teach you how to boil eggs or bake potatoes, because that would be concerning, I'm gonna stick to teaching you how to make a lebanese hummus. WAIT! It's just hummus because it's lebanese. 

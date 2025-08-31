@@ -6,6 +6,7 @@ prep_time: "30 mins"
 cook_time: "0 mins"
 servings: "France"
 video_link: "I think the picture speaks for itself"
+tags: [Vegetarian] 
 ---
 
 Les joliesss colonieees de vacanceuuuuu, mercii mamann merci pa...Ok so, after two years of resistance, I have finally tried a homemade french taboulé, and gurl was it good. Also why is this song playing in my head while writing the FRENCH taboulé recipe? les jolies colonie de vac nananana...

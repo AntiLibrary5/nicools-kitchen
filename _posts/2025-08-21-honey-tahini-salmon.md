@@ -6,6 +6,7 @@ prep_time: "20 mins"
 cook_time: "30 mins"
 servings: "2 if you're normal, 1 if you're me"
 video_link: "I was busy catching the salmon from the Isère, forgot to film the recipe"
+tags: [Non Vegetarian]
 ---
 
 Back in the days, Jesus fed 1 fish to many people. Now I feed 1 person, many fish. 

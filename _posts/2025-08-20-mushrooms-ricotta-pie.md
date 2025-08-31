@@ -6,6 +6,7 @@ prep_time: "20 mins"
 cook_time: "forgot to check"
 servings: "1 person"
 video_link: "you only get a picture but no video...."
+tags: [Vegetarian]
 ---
 
 On a hot canicule day in Grenoble, I was craving something refreshing. What's more refreshing that cooked mushrooms, with truffle whipped ricotta on a flaky crust, cooked to golden brown in a steaming hot oven? well, anything is more refreshing than that!

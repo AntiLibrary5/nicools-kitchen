@@ -6,6 +6,7 @@ prep_time: "0 mins"
 cook_time: "5 mins"
 servings: "won"
 video_link: "Didn't film it because no time to waste"
+tags: [Vegetarian] 
 ---
 
 True story: first time I heard about Gordon Ramsay was a long time ago on Fatafeat. At first, I thought it was Gordon Ramzi, like Chef Ramzi, and started googling "Gordon Ramzi lebanese?", "Is Gordon Ramzi from Lebanon?", "Gordon Ramzi Lebanon", weird since day 1. Spolier alert he's not lebanese, but he has the best scrambled eggs recipe that I swear by (not that my opinion really matters). He taught me (and the whole fatafeat audience) it, and I'm just transfering knowledge here. 

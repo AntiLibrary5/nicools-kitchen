@@ -6,6 +6,7 @@ prep_time: "15 mins"
 cook_time: "25 mins"
 servings: "8 people"
 video_link: "I didn't film a recipe for this one, sorry guys"
+tags: [Add Ons]
 ---
 
 I was super bored that day, nothing out of the ordinary, and had an abundance of onions. So then I went to the supermarket, bought some onions and decided to put them in a jar. 

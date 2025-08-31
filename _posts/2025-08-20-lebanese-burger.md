@@ -6,6 +6,7 @@ prep_time: "A lot because i made a mess"
 cook_time: "15 mins"
 servings: "depends on the patties"
 video_link: "https://www.instagram.com/reel/DL7TT73M346DV6hM7tOOgy2m4yTq2yzG0vQows0/?igsh=MWdubDB1dmlrNmhqbA== "
+tags: [Non Vegetarian]
 ---
 
 I was back home one day, and was looking for ways to annoy my MOTHER. So I forced her to film me make a useless recipe, just like she...sorry YOU are. That recipe was your one and only lebanese burger, loved by many but hated by more. 

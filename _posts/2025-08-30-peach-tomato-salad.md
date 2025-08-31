@@ -6,6 +6,7 @@ prep_time: "10 mins"
 cook_time: "0 mins"
 servings: "eat until you vomit"
 video_link: "You know that moment when you realize that you made a huge mistake? Yea, not filming this was a huge mistake"
+tags: [Vegetarian] 
 ---
 
 What's a tomato? What's a peach? What's a salad? Existential questions that are always playing in my head. To act upon them, I combined tomato, peach and salad together, to finally end up with one question: What's a peach tomato salad?

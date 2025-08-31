@@ -6,6 +6,7 @@ prep_time: "15 mins"
 cook_time: "25 mins"
 servings: "8 people"
 video_link: "https://www.instagram.com/reel/DGsxunisQQrhqPG3_Cs_n822q0NGOyhHSibuLo0/?igsh=MWRlYnpod21uejYybA== "
+tags: [Dessert]
 ---
 
 I don't normally like dessert but these chocolate brownies were so good, I only made them once!

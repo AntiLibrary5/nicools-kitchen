@@ -6,6 +6,7 @@ prep_time: "20 mins"
 cook_time: "30 mins"
 servings: "Everyone but me"
 video_link: "To be fair, a picture is enough for this recipe"
+tags: [Vegetarian]
 ---
 
 From the day I was born this way, my mom used to tell me that I'm "special", but i always thought that something was missing. Fast forward to November 2024, when I realized that what was missing was me being vegetarian. I threw all the meat in my fridge and decided to make these lentils meatballs for lunch. That day I had ribs for dinner and the rest is history.

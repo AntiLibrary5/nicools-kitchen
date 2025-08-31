@@ -6,6 +6,7 @@ prep_time: "20 mins"
 cook_time: "30 mins"
 servings: "Yea, 1 definitely"
 video_link: "https://www.instagram.com/reel/DNqWGjis5TmCBEIbKUr2KAE3gdtBBOS6uIKW_E0/?igsh=Zmh4d3RsYWp4eDh4 "
+tags: [Vegetarian]
 ---
 
 Yesterday I payed a revisit to the tartiflette, a dish I adore, and made another dish that has nothing to do with it. But who are you to tell me not to call it "Tartiflette revisitée"

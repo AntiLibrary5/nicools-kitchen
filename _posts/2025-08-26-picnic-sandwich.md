@@ -6,6 +6,7 @@ prep_time: "15 mins"
 cook_time: "0 mins"
 servings: "Shared this with Danah"
 video_link: "We were in a hurry, so I couldn't film!"
+tags: [Vegetarian, Non Vegetarian] 
 ---
 
 I am so grateful for Mr Sandwich for creating that concept. However, when it comes to fashion, the sandwich effect is my ultimate nightmare. Bref, make yourself a sandwich and go hangout in the nearest parc, you deserve it. It's a plus if you have a Danah to take with you.

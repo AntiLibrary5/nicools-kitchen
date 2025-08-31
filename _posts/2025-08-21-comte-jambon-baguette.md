@@ -6,6 +6,7 @@ prep_time: "5 mins"
 cook_time: "no mins"
 servings: "1 queen"
 video_link: "https://www.instagram.com/reel/DNIVc7QM-HI1Gb4uCeaLsABl5xVpXkGFlFnTJY0/?igsh=aGhyeGQ4bWg0dDA5 "
+tags: [Non Vegetarian]
 ---
 
 On a hot Saturday French morning, Nicole woke up from her bad sleep, opened the window to the best La Bastille view and asked here self 'Who am I?'. Well, you are what you eat, a fancy jambon comte beurre sandwich. Simple yet decadent. OMG that's so cringe...

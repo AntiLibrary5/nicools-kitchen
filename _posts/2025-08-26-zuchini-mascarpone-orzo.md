@@ -6,6 +6,7 @@ prep_time: "10 mins"
 cook_time: "17 mins"
 servings: "yep, only 1"
 video_link: "https://www.instagram.com/reel/DN0RO1Y2GOjj5rGzmXid3QM70xtQOaw3Goarjc0/?igsh=MWs4cXQ5czd4eDQwbA== "
+tags: [Non Vegetarian]
 ---
 
 Sometimes I look in the mirror and ask: How am I this great? And oddly enough, the mirror answers me, always having the same answer: "have you seen your cooking?". I have, but have you? So here's one of those dishes, that you could eat morning, noon and night I care about ha (not a shoutout to king charles)
