@@ -2,6 +2,13 @@
 layout: default
 title: Home
 ---
+<div class="filter-bar">
+    <a href="{{ site.baseurl }}/" class="tag-button active">All Recipes</a>
+    {% for tag in site.tags %}
+        <a href="{{ site.baseurl }}/tags.html#{{ tag[0] | slugify }}" class="tag-button">{{ tag[0] }}</a>
+    {% endfor %}
+</div>
+
 <ul class="recipe-grid">
     {% for post in site.posts %}
         <li class="recipe-card">

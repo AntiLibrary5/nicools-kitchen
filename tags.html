@@ -1,0 +1,35 @@
+---
+layout: default
+title: All Categories
+---
+
+<div class="tag-page-container">
+    <h1 class="page-title">All Recipe Categories</h1>
+
+    <div class="tag-cloud">
+        {% for tag in site.tags %}
+            <a href="#{{ tag[0] | slugify }}" class="tag-button">{{ tag[0] }}</a>
+        {% endfor %}
+    </div>
+
+    {% for tag in site.tags %}
+        <div class="tag-group">
+            <h2 id="{{ tag[0] | slugify }}" class="tag-title">{{ tag[0] }}</h2>
+            <ul class="recipe-grid">
+                {% for post in tag[1] %}
+                    <li class="recipe-card">
+                        <a href="{{ site.baseurl }}{{ post.url }}">
+                            {% if post.image %}
+                                <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
+                            {% endif %}
+                            <div class="recipe-card-content">
+                                <h3 class="recipe-card-title">{{ post.title }}</h3>
+                                <p class="recipe-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+                            </div>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endfor %}
+</div>

@@ -198,3 +198,64 @@ a:hover {
 
 .site-logo {
 }
+
+/* =================================== */
+/* Filter Bar & Tag Page Styling       */
+/* =================================== */
+
+/* The Filter Bar on the Homepage */
+.filter-bar {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.tag-button {
+    background-color: #f1f3f5;
+    color: #495057;
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-size: 0.9em;
+    font-family: 'Helvetica Neue', sans-serif;
+    transition: background-color 0.2s ease;
+}
+
+.tag-button:hover {
+    background-color: #e9ecef;
+    text-decoration: none;
+}
+
+/* Style for the currently active filter */
+.tag-button.active {
+    background-color: #d6336c;
+    color: #fff;
+}
+
+
+/* Styling for the main tags.html page */
+.page-title {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+}
+
+.tag-cloud {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #eee;
+}
+
+.tag-title {
+    font-size: 2em;
+    margin-top: 40px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #d6336c;
+}

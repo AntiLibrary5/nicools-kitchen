@@ -6,6 +6,7 @@ prep_time: "15 min"
 cook_time: "30 min"
 servings: "1 for me 1 for the trash"
 video_link: "https://www.instagram.com/reel/DHiycw-sof_LIvaSrI83y56IDSDGfWWFK8sRaM0/?igsh=c2x6M3R4aTl5c2Jz "
+tags: [veg]
 ---
 
 If you know me well (dw I don't even know me well), you'll know that I love to match my outfits with my food. That day I decided to wear a purple sweater for work, so obviously I had to match it with a purple pasta. The next day a threw my sweater. 
