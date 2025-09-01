@@ -9,7 +9,7 @@ video_link: "I didn't film this, but I should tho"
 tags: [Vegetarian]
 ---
 
-From the outside this pasta might look super basic, a red tomato pasta, unseasoned, prepared by a white person. However, when you dig into it, this pasta is full of flavors, actually extraordinary. Wait a second...Is this pasta me??? Am I better than everyone? (saying it in Julien's voice)
+From the outside this pasta might look super basic, a red tomato pasta, unseasoned, prepared by a basic person. However, when you dig into it, this pasta is full of flavors, actually extraordinary. Wait a second...Is this pasta me??? Am I better than everyone? (saying it in Julien's voice)
 
 ## Ingredients
 
