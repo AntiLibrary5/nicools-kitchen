@@ -28,7 +28,7 @@ My utlimate fear in life, apart from my brain damaging hypochondria, is getting 
 
 1. As our Goddess Charli XCX said: I split the apple down symmetrical lines, so learn from her, and do that too
 2. In a pan, melt the butter with some olive oil, we're keeping it healthy and balanced
-3. Add you apples and let them cook for a couple of minutes
+3. Add your apples and let them cook for a couple of minutes
 4. Add a pinch of salt, cinnamon and the brown sugar and let the apple caramelize into hazel eyes
 5. Get a pie mold, oh it's mould not mold, just checked google
 6. Drizzle some olive oil onto the mold, and place your first puff Pastry

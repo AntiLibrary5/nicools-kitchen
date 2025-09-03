@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Truffle Ricotta Mushroom Pie"
+title: "Mushroom 3.14159265359"
 image: /assets/images/mushroom-ricotta-pie.jpg
 prep_time: "20 mins"
 cook_time: "forgot to check"

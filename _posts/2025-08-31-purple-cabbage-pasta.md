@@ -9,7 +9,7 @@ video_link: "https://www.instagram.com/reel/DHiycw-sof_LIvaSrI83y56IDSDGfWWFK8sR
 tags: [Vegetarian]
 ---
 
-If you know me well (dw I don't even know me well), you'll know that I love to match my outfits with my food. That day I decided to wear a purple sweater for work, so obviously I had to match it with a purple pasta. The next day a threw my sweater. 
+If you know me well (dw I don't even know me well), you'll know that I love to match my outfits with my food. That day I decided to wear a purple sweater for work, so obviously I had to match it with a purple pasta. The next day I threw my sweater. 
 
 ## Ingredients
 

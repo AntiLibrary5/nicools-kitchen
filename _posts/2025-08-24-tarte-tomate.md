@@ -6,7 +6,7 @@ prep_time: "15 mins"
 cook_time: "30 mins"
 servings: "Mon ptit estomac"
 video_link: "https://www.instagram.com/reel/C97KncSNIjE_bYlHN-qWJry7rtsgSWwnac3lu40/?igsh=ajZqZm04N3B4Mm9i "
-tags: [Vegetarian]
+tags: [Vegetarian] 
 ---
 
 Un ptit matin là, je me reveil, je prends mon ptit café, dans mon ptit lit, puis je mets mes ptites chaussures et me dirige vers le marché de l'Estacade pour acheter des ptites tomates, pour ensuite en faire une ptite tarte, idéale pour mon ptit estomac.
