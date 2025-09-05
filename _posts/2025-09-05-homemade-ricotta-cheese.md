@@ -15,7 +15,8 @@ I was partying hard on a Tuesday night, as usual, and by the end of the night so
 
 * 1L fresh whole milk
 * 3 tbsp white vinegar or lemon
-* 1/2 tsp salt (optional)
+* 1/2 tsp salt
+* Olive oil
 * Cheesecloth or a clean kitchen towel or very old fanella Hanin
 
 ## Instructions
@@ -31,6 +32,7 @@ I was partying hard on a Tuesday night, as usual, and by the end of the night so
 9. Carefully pour in the curds and whey.
 10. Let it drain for 10–30 minutes, depending how creamy or firm you want it:
 11. Sprinkle salt over the curds and mix gently.
+12. For extra taste, mix it with olive oil ;) 
 12. Congrats, you just made the best ricotta on earth, give yourself a pat on the back girl
 
 
