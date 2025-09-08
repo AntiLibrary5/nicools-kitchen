@@ -9,7 +9,7 @@ video_link: "I didnt take neither a picture nore a video"
 tags: [Vegetarian] 
 ---
 
-When I have people over for lunch or dinner, I'm always scared that there's not gonna be enough food. So i start throwing things I have in the fridge together to create extra dishes. I decided that this my version of the Shakshouka and Julien approved. Ju, if you're reading this, spectaculaaaar, renverssanteee. Also, doing this while on the plane, the person next to me is wondering what's going on. 
+When I have people over for lunch or dinner, I'm always scared that there's not gonna be enough food. So i start throwing together things I have in the fridge. I decided that this my version of the Shakshouka and Julien approved. Ju, if you're reading this, spectaculaaaar, renverssanteee. Also, doing this while on the plane, the person next to me is wondering what's going on. 
 
 ## Ingredients
 
