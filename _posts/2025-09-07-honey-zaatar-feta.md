@@ -30,7 +30,8 @@ It happened, I left Grenoble. I am currently in the sky and I am starving, and l
 7. Sprinkle zaatar, prepared by your Aunty Marie or your Neighbour Jamila. Also, be generous with the zaatar, no one left and took anything with them. 
 8. Put in a preheated oven for 30 min at the temperature you want, I choose a HOT T. 
 9. Once you see the feta all caramelized, it means it's done. 
-10. Serve it to your friends and see the smile drawing on their asses, sorry faces. 
+10. Serve it to your friends and see the smile drawing on their asses, sorry faces.
+11. Grenoble, you'll always be in ma heart, and I'm coming back
 
 
  
