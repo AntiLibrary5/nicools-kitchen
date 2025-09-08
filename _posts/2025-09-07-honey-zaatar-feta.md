@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I have a fet...thing for feta"
-image: /assets/images/maakroun-bi-toum.jpg
+image: /assets/images/zaatar-honey-feta.jpg
 prep_time: "Five milliseconds"
 cook_time: "30 mins"
 servings: "Iris, Julien, Vee, Cecile"
