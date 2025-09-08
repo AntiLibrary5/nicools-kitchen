@@ -31,4 +31,4 @@ When I have people over for lunch or dinner, I'm always scared that there's not 
 6. Poach 6 eggs in the sauce, DON'T scramble them
 7. Pinch of salt, and cover your pan
 8. Cook depending on your preference, if you like runny yolk or not. I'm not gonna tell what I like tho...
-9. Have with bread and thank me later, or now
+9. Have it with bread and thank me later, or now
