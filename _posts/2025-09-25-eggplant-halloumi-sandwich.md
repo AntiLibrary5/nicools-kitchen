@@ -34,13 +34,13 @@ Yes, so I'm that girl who just came back home after living abroad for twen...two
 3. In your tote bag, place all the ingredients and get the helloumi out of there, don't pay because fuck the paytriarchy
 4. Once home, I always start by prepping everything, so it's easier towards the end of times
 5. Slice your tomatoes, salt them and put them aside
-6. Wash your rocket leaves and leave the to be as dry as you
+6. Wash your rocket leaves and leave them to be as dry as you
 7. Cut your halloumi into 1 cm thick slices, and if you're reading this from the U of S of A, 1 cm is 0.393701 inch
 8. Cut the eggplants into slices as thick as you
 9. In a bowl, mix some corn starch and water to make a sticky liquid 
 10. In another bowl, mix breadcrumbs, salt, black pepper and OO7 (Olive Oil and the number 7 which makes completely no sense) 
-11. Focus with me now, do I look good? aw than me!
-12. Back to the recipe now, eggplant slide then cornstarch mixture then breadcrumbs, tac tac tac and repeat till your out of one of the three components
+11. Focus with me now, do I look good? aw thank you!
+12. Back to the recipe now, eggplant slice in cornstarch mixture then in the breadcrumbs, tac tac tac and repeat till you're out of one of the three components
 13. Eggplants in the oven, or in the airfryer that I bought just yesterday
 14. Halloumi in a pan with some olive oil to caramelize into hazel eyes
 15. Assembly general: Bun > Pesto > Rocket > Halloumi > Egglplants > Tomato > Pickled Onions > Bun 
