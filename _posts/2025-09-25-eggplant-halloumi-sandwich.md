@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HELLoumi sandwich that you should dive into"
+title: "HELLoumi sandwich that you should die for"
 image: /assets/images/halloumi-eggplant-sandwich.jpg
 prep_time: "from 10 to 11 mins"
 cook_time: "from 11 to 10 mins"
