@@ -9,7 +9,7 @@ video_link: "https://www.instagram.com/reel/DOGZe8JjGiUyrdr64xyx0SEsTNe0iJMU8Jsv
 tags: [Non Vegetarian]
 ---
 
-Today I hit a milestone! I ran my first 10km with Cecile. Am I becoming the girl who runs for fun? That's it for me? Who am I? What am I? Who are you? Why am I doing this? Why are you reading this? To answers all these questions, I made myself a sandwich to compensate for all the energy I lost running. 
+Today I hit a milestone! I ran my first 10km with Cecile. Am I becoming the girl who runs for fun? That's it for me? Who am I? What am I? Who are you? Why am I doing this? Why are you reading this? To answer all these questions, I made myself a sandwich to compensate for all the energy I lost running. 
 
 ## Ingredients
 

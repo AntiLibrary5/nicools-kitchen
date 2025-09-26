@@ -9,7 +9,7 @@ video_link: "You can find it in my story highlight"
 tags: [Vegetarian, Add Ons]
 ---
 
-I was partying hard on a Tuesday night, as usual, and by the end of the night someone screamed CHEERS, so I woke up the next day absolutely wanting to make cheese. Then I asked myself: Nicole which cheese do you want to make? If you're from Koura, you obviously now Ricosta, so in hommage to them, I decided to make ricotta. 
+I was partying hard on a Tuesday night, as usual, and by the end of the night someone screamed CHEERS, so I woke up the next day absolutely wanting to make cheese. Then I asked myself: Nicole which cheese do you want to make? If you're from Koura, you obviously know Ricosta, so in hommage to them, I decided to make ricotta. 
 
 ## Ingredients
 
