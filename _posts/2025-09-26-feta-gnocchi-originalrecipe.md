@@ -44,7 +44,7 @@ People always tell me that they love cooking for others but when it comes to the
 15. Bit of olive oil on your feta for good luck and to the oven it goes
 16. Now tell me about yourself, we have 35 minutes to spare. 
 17. Oh you wanna know about me? It was back in '07, did a couple of tapes, Did a couple DVDs, made a couple mistakes, Didn't know what I was doing, but I put on a cape
-18. Time is up, enough taking and remove your bakinf dish, it's 1 AM already
+18. Time is up, enough talking and remove your baking dish, it's 1 AM already
 19. Now smash your feta girl, and mix the whole bake, until they all stick together, because together, we're always stronger 
-19.1. While mixing, you can add the optional harissa squeeze and continue mixing. 
-20. Put on Mylène Farmer, Appelle mon numéro and enjoy your gnocchiiiii
+19.1. While mixing, you can add the optional harissa squeeze and continue mixing 
+20. Put on Mylène Farmer, Appelle mon numéro and enjoy your gnocchi
