@@ -14,7 +14,7 @@ One night I was binge watching my turkish series and my 2yo kid came to wish me 
 ## Ingredients
 
 * 1 Avocado or if you're lebanese then 1 avokeydo
-* 1 chicken boobies
+* 1 chicken breast from the mid west
 * Panco Bread crumbs
 * Grated Parmesan
 * 2 garlic cloves
@@ -35,7 +35,7 @@ One night I was binge watching my turkish series and my 2yo kid came to wish me 
 3. Get some corn fed chicken. To make sure they were fed corn, ask the breats, they won't lie to you
 4. Step 1 you say we need to talk, you walk you say sit down it's just a talk
 
-### Quote me, the chicken said, as I lay her in the breadcrumbs
+### Quote me, the chicken said, as I lay it in the breadcrumbs
 1. Cut the chicken breats into two thinnish slices
 2. In a bowl, mix your panco, with a bit of salt, pepper and your parmesan cheese
 3. Now quote your chicken "bak ba kikk", no actually coat it not quote it. 
