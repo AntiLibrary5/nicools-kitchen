@@ -14,7 +14,7 @@ One night I was binge watching my turkish series and my 2yo kid came to wish me 
 ## Ingredients
 
 * 1 Avocado or if you're lebanese then 1 avokeydo
-* 1 chicken breadt
+* 1 chicken boobies
 * Panco Bread crumbs
 * Grated Parmesan
 * 2 garlic cloves
@@ -32,7 +32,7 @@ One night I was binge watching my turkish series and my 2yo kid came to wish me 
 
 1. Go to Punto Alto and order the dish, but if you're extra like me, just follow my lead
 2. Wash your hands, feet, teeth, hair, sleep tight and wake up early the next day to go to the farmer's market
-3. Get some corn fed chicken. Tto make sure they were fed corn, ask the breats, they won't lie to you
+3. Get some corn fed chicken. To make sure they were fed corn, ask the breats, they won't lie to you
 4. Step 1 you say we need to talk, you walk you say sit down it's just a talk
 
 ### Quote me, the chicken said, as I lay her in the breadcrumbs
