@@ -26,7 +26,7 @@ Men belong in the trash but NOT Food. I hate throwing away food, and especially 
 ## Instructions
 
 1. Wake up at 5 am and be productive girl, or don't, just do you!
-2. Open that fridge drawer your forgot existed, see that sad plastic bag, all sweaty in the back? yep, these are your tomatoes. Get them 
+2. Open that fridge drawer you forgot existed, see that sad plastic bag, all sweaty in the back? yep, these are your tomatoes. Get them 
 3. Wash the tomatoes (or don't, we're gonna peel them anw) 
 4. Peel your tomatoes, remove the core (you know, that white hard thing in the middle, EW) and cut them into big chunks
 5. In a mixing bowl, put all of the above ingredients, mix them well and let them sit for at least 1.5 hours. 
