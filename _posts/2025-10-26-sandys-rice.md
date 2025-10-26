@@ -4,7 +4,7 @@ title: "RICE to Meet You - Brought to You by The Sands"
 image: /assets/images/sandys-rice.jpg
 prep_time: "La yendafo l rezzet"
 cook_time: "Long enough to question your life choices"
-servings: "1cup - because kel kebeyit Rez kebeyten may (Lebanese Moms,1720)"
+servings: "Toronto"
 video_link: "Sandy please next time, film yourself"
 tags: [Vegetarian] 
 ---
