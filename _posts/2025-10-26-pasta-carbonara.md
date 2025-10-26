@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mom, I love carbonara more than you"
+title: "Mom, I love her more than you, the carbonara"
 image: /assets/images/pasta-carbonara.jpg
 prep_time: "timeless"
 cook_time: "timeless"
