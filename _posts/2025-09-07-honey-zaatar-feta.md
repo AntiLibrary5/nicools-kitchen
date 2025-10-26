@@ -25,7 +25,7 @@ It happened, I left Grenoble. I am currently in the sky and I am starving, and l
 2. Place the feta block in that thing
 3. Now if you want to take that optional garlic, then girl, I admire your exquisite tase. So take your 2 cloves and stick them inside the cheese, each clove on one end.
 4. If you're not a garlic fan, than skip step 1, 2, and 3. Throw your feta, and go find a purpose. I'm joking girl, it's ok <3 
-5. Drizzle an SG amount of garlic on your feta (SG, is for my homies in Gre, Société Généreuse)
+5. Drizzle an SG amount of oil on your feta (SG, is for my homies in Gre, Société Généreuse)
 6. Drizzle a good amount of honey all over your cheese. Feta, and honey go well together.
 7. Sprinkle zaatar, prepared by your Aunty Marie or your Neighbour Jamila. Also, be generous with the zaatar, no one left and took anything with them. 
 8. Put in a preheated oven for 30 min at the temperature you want, I choose a HOT T. 
