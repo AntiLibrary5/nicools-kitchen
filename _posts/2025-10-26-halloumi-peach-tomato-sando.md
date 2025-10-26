@@ -9,7 +9,7 @@ video_link: "No video....I should really start filimg all me recipes"
 tags: [Vegetarian] 
 ---
 
-I woke up one morning, wanting to treat my mother Antoinette with a breakfast. She has a very limited palette and she doesn't like like cheese much. So I decided to make her a halloumi sandwich, paired with other stuff as well. She liked it as much as she likes me. The picture you see here, was taken after she ate the sandwich....
+I woke up one morning, wanting to treat my mother Antoinette with a breakfast. She has a very limited palette and she doesn't like cheese much. So I decided to make her a halloumi sandwich, paired with other stuff as well. She liked it as much as she likes me. The picture you see here, was taken after she ate the sandwich....
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ I woke up one morning, wanting to treat my mother Antoinette with a breakfast. S
 
 1. Wake up, and prep your bedm you don't live in a hotel 
 2. Have a CCC which translate into Café Clope Caca and start your day fresh
-3. Ask your mom wants she wants for breakfast, and whatever she says, do the oppostie 
+3. Ask your mom what she wants for breakfast, and whatever she says, do the oppostie 
 4. Cut your break, oil it and toast it until it's golden 
 5. Not cut everything small small small (your halloumi, your peach and your tomatoes) 
 6. In a bowl, mix the above with some salt, olive oil, and the mango chutney and your mint and combine everything together
