@@ -9,7 +9,7 @@ video_link: "TBH a picture is way more than enough"
 tags: [Dessert] 
 ---
 
- It finally came, le 5 mars, the day everyone looks forward to, the day that is called MY DAY. For a person who claims not to like their birthday, I really talk about it a lot. So obviously on that day, I had an abundance of Mars, the chocolate, because obviously on that days I bought them in blocks of 5, for them to be 5 mars...So with the leftovers, I made a childhood delicacy, created by Tante Naufe, loved by everyone, and known by MARS CORNFLEX.
+ It finally came, le 5 mars, the day everyone looks forward to, the day that is called MY DAY. For a person who claims not to like their birthday, I really talk about it a lot. So obviously on that day, I had an abundance of Mars, the chocolate, because obviously on that day I bought them in blocks of 5, for them to be 5 mars...So with the leftovers, I made a childhood delicacy, created by Tante Naufe, loved by everyone, and known by MARS CORNFLEX.
 
 ## Ingredients
 
