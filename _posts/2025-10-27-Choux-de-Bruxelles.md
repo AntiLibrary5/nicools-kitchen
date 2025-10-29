@@ -18,7 +18,7 @@ When people ask me where do I get my sense of humor from, I always say my Dad. H
 * Olive oil
 * Parmesan cheese
 * Salt
-*Black pepper
+* Black pepper
 
 
 
@@ -33,5 +33,5 @@ When people ask me where do I get my sense of humor from, I always say my Dad. H
 7. Place your Shoes on the baking tray, drizzle a generous amount of Olive oil, salt and black pepper 
 8. Mix them well
 9. Add a healthy amount of parmesan to cover your sprouts 
-10. Open your oven door, place the tray in the over, close the oven door and roast them for 12 to 15 minutes ar 185-190 degrees
+10. Open your oven door, place the tray in the oven, close the oven door and roast them for 12 to 15 minutes at 185-190 degrees
 11. Serve them next to something or someone
