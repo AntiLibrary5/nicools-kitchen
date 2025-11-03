@@ -5,7 +5,7 @@ image: /assets/images/halloumi-peach-tomato-sando.jpg
 prep_time: "open an eye"
 cook_time: "close the other"
 servings: "Mère Antoinette"
-video_link: "No video....I should really start filimg all me recipes"
+video_link: "No video....I should really start filming all me recipes"
 tags: [Vegetarian] 
 ---
 
@@ -25,10 +25,10 @@ I woke up one morning, wanting to treat my mother Antoinette with a breakfast. S
 
 ## Instructions
 
-1. Wake up, and prep your bedm you don't live in a hotel 
+1. Wake up, and prep your bed, girl, you don't live in a hotel 
 2. Have a CCC which translate into Café Clope Caca and start your day fresh
-3. Ask your mom what she wants for breakfast, and whatever she says, do the oppostie 
-4. Cut your break, oil it and toast it until it's golden 
-5. Not cut everything small small small (your halloumi, your peach and your tomatoes) 
-6. In a bowl, mix the above with some salt, olive oil, and the mango chutney and your mint and combine everything together
+3. Ask your mom what she wants for breakfast, and whatever she says, do the opposite 
+4. Slice two pieces of bread, oil them, and toast them until they're golden 
+5. Now cut everything small small small (your halloumi, your peach and your tomatoes) 
+6. In a bowl, mix the above with some salt, olive oil, the mango chutney and your mint and combine everything together
 7. Lay your mixture on the toasted bread and let your mom enjoy! 
