@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coq au vin"
+title: "My very famous Kok au vin"
 image: /assets/images/coq-au-vin.jpg
 prep_time: "5 hours minimum"
 cook_time: "85 minutes"
