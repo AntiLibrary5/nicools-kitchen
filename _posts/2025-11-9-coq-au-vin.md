@@ -26,6 +26,7 @@ I hate using plastic bags. So today, at the supermarket, I put carrots in a plas
 * 1 bouquet garnis (Rosemary, thyme, bay leaves)
 * 4 tablespoons flour
 * Half a cup chicken broth (optional)
+* Olive Oil
 * Salt
 * Black Pepper 
 
@@ -39,7 +40,7 @@ I hate using plastic bags. So today, at the supermarket, I put carrots in a plas
 5. Peal and cut your carrots into big pieces
 6. Cut the white parts of your leeks 
 7. Cut your big onion in half 
-8. In a bowl, put your cut veggies, the bay leaves with the rosemary and thym, your chicken, and your whole wine bottle and let it marinate for at least 3 hours 
+8. In a bowl, put your veggies, the bay leaves with the rosemary and thym, your chicken, and your whole wine bottle and let it marinate for at least 3 hours 
 9. Read a book, play with your toes, go for a run, take a nap, you do you. 
 10. 4 hours in, separate your wine from everything else, but don't throw it....DUH
 11. Bring your expensive dutch oven, and start by cooking your bacon. 
