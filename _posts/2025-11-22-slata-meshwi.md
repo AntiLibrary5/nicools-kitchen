@@ -42,5 +42,5 @@ Everytime I say something so random, people often tell me that they wonder what 
 12. Put some olives 
 13. Put a hard boiled egg, or as tunisian would say "3athma" 
 14. Drizzle everything with some olive oil and girl you just served a beautiful tunisian Slata
-15. SLAYTA!!!!
+15. SLAYTA!!!
 
