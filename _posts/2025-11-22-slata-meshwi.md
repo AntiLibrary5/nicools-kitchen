@@ -24,6 +24,7 @@ Everytime I say something so random, people often tell me that they wonder what 
 * Olives
 * Tuna
 * Hard boiled eggs
+* Real Tunisian Harissa
 
 
 ## Instructions
@@ -41,6 +42,7 @@ Everytime I say something so random, people often tell me that they wonder what 
 11. Open a can of tuna on top
 12. Put some olives 
 13. Put a hard boiled egg, or as tunisian would say "3athma" 
-14. Drizzle everything with some olive oil and girl you just served a beautiful tunisian Slata
-15. SLAYTA!!!
+14. Put some harissa, cause we like hot stuff. 
+15. Drizzle everything with some olive oil and girl you just served a beautiful tunisian Slata
+16. SLAYTA!!!
 
