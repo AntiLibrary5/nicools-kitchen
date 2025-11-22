@@ -5,7 +5,7 @@ image: /assets/images/Halloumi-Mango-Salad.jpg
 prep_time: "A lot"
 cook_time: "No cooqueen"
 servings: "Moi"
-video_link: "I didn't film it, I was busy doing nothing"
+video_link: "https://www.instagram.com/reel/DRP-1CsDILr_PIYN4auF8vYKTUfvg3OA1lWJIc0/?igsh=YWNmbDczaHc3YzJh"
 tags: [Vegetarian] 
 ---
 
@@ -27,7 +27,7 @@ Last night, I came back from work with some cravings. Craving that my country be
 * Half tspn Cumin 
 * 1 tspn brown sugar
 * Zaatar
-* Pita Bread
+* Lebanese Bread
 
 
 ## Instructions

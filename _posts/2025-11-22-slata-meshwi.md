@@ -6,7 +6,7 @@ prep_time: "No idea"
 cook_time: "No idea"
 servings: "Tunisia"
 video_link: "I didn't film it, I was busy doing nothing"
-tags: [Vegetarian] 
+tags: [Non Vegetarian] 
 ---
 
 Everytime I say something so random, people often tell me that they wonder what goes on in my head when I say stuff like that. To be hoenest, I have no idea what goes on up there and I think that's beautiful. Like right now, I just left my PC and went to make some popcorn but ended up doing instant noodles. I am totally fine, right? Right, girl, you are fine ;) 
