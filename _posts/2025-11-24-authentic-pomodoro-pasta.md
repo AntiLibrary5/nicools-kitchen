@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Slata Mechwiya"
+title: "Ma3karouna bi shrab, known to my grandma as Pasta Pomodoro"
 image: /assets/images/pasta-pomodoro.jpg
 prep_time: "5 minutes"
 cook_time: "20 minutes"
