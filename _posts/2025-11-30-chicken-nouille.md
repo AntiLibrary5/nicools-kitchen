@@ -9,7 +9,7 @@ video_link: "Unfortunately no video was filmed for this masterpiece"
 tags: [Non Vegetarian] 
 ---
 
-Music to my ears:  نوي الغدا بكرا
+Music to my ears:   بكرا الغدا نوي
 
 ## Ingredients
 
