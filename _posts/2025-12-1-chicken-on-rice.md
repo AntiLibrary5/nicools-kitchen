@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Rice on top of chicken"
-image: /assets/images/chicken-on-rice.jpg
-prep_time: "idk
+image: /assets/images/rice-on-chicken.jpg
+prep_time: "idk"
 cook_time: "idk"
 servings: "idk"
 video_link: "Dear darling, excuse me, but no video is here"
-tags: [Non Vegetarian] 
+tags: [Non Vegetarian]
 ---
 
 When I'm bored, my best entertainement is stalking myself on instagram, rewatching my stories, figuring out what was actually going on in my head at that time. No one, not even me, has an answer for that. While I was scrolling, I came across this dish, it was so unforgetable, that I forgot I made it. But, for the sake of adding a recipe here, I'll add my chicken over rice.  
