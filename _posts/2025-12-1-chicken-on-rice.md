@@ -40,7 +40,7 @@ When I'm bored, my best entertainement is stalking myself on instagram, rewatchi
 12. Add the chicken, and then add 2 cups of chicken stock 
 13. Cook until cooked (rice absorbs all the water) 
 14. I don't like the sauce that goes with it, so I eat it with laban. You do the same.
-15. See? you ended up with a dish. 
+15. See? you ended up with a dish. Sahten ya 3omrehhhh 
 
 
 
