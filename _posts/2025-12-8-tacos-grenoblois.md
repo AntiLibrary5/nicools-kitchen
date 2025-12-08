@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tacos tenders sauce Algerienne stp"
+title: "Tacos tenders sauce Algerienne stp... à emporter"
 image: /assets/images/tacos-grenoblois.jpg
 prep_time: "timeless"
 cook_time: "timeless"
