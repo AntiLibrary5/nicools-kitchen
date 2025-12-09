@@ -9,7 +9,7 @@ video_link: "https://www.instagram.com/reel/C3GXYnBNEJsDbm86KTkNJViyimfPHI3xK5uP
 tags: [Non Vegetarian]
 ---
 
-Premier jour à Grenoble, je traine dans la ville et je vois des resto de tacos partout: Tacos Lebrizfaim, Tacos de Grenoble, Tacos de Lyon, O Tacos, Tacos Tadim...Stupéfait, je pose la question à Alex : Alex, il doit y avoir une communauté mexicaine immense à Gre. Surpis, il me dis : mais camarade, NON, pourquoi? Je lui explique parce que je vois des tacos partout...Il éclate de rire et me dit que le tacos est Grenoblois. Et oui, desolée les Lyonais, mes le tacos est grenoblois. Je bave rien que d'y penser.  
+Premier jour à Grenoble, je traine dans la ville et je vois des resto de tacos partout: Tacos Lebrizfaim, Tacos de Grenoble, Tacos de Lyon, O Tacos, Tacos Tadim...Stupéfait, je pose la question à Alex : Alex, il doit y avoir une communauté mexicaine immense à Gre. Surpis, il me dis : mais camarade, NON, pourquoi? Je lui explique parce que je vois des tacos partout...Il éclate de rire et me dit que le tacos est Grenoblois. Et oui, desolée les Lyonais, mais le tacos est grenoblois. Je bave rien que d'y penser.  
 
 
 ## Ingredients

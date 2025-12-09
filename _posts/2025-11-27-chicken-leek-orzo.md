@@ -42,6 +42,6 @@ Tonight my neighbour called me, needing help. Her sink had a leak. She panicked 
 12. Add two cups of water, and let the orzo (and everything else) cook for about 8 minutes, till the water evaporates and the orzo is al dente 
 13. Add a splash of cream to give your dish some rizzz
 14. Finish off with some parmesan
-15. Go back to your neighbour, and giver her back her leak, she'll love it, I'm sure
+15. Go back to your neighbour, and give her back her leak, she'll love it, I'm sure
 
 
