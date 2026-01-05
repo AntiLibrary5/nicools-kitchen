@@ -5,7 +5,7 @@ image: /assets/images/chicken-nouille.jpg
 prep_time: "25 minutes"
 cook_time: "25 minutes"
 servings: "Generations to come"
-video_link: "Unfortunately no video was filmed for this masterpiece"
+video_link: "https://www.instagram.com/reel/DSlDeuhjLANh2BnZTPwJOt6TQeUmNX8lW6c21A0/?igsh=cXM4bjJ5bzgza2N5"
 tags: [Non Vegetarian] 
 ---
 
