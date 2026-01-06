@@ -29,7 +29,7 @@ Combine my two favorite things on earth and it will definitely not be a Club San
 
 1. Someone told me that it must've been hard building the eifel tower, so I challenged them into building a bread tower
 2. Take off your rings, your watch, your bracelets and the mask that you sometimes put, wash your hands and let's get to work 
-3. Start by cutting your chicken breast into a butterfly (that's the actual metamorphosis of a butterfly: worm > butterfly > chicken > butterfly)
+3. Start by cutting your chicken breast into a butterfly (that's the actual metamorphosis of a butterfly: worm to butterfly to chicken to butterfly)
 4. Choose your favorite season, mine is winter, and then season your butterfly with salt and pepper ON BOTH SIDES
 5. Oil up a non-stick pan, or a stick one, if you're cheap and poor like me, heat it up and then place your butterfly
 6. Cook your butterfly 3-4 minutes on each side and she'll be alive again
