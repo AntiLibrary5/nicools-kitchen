@@ -4,7 +4,7 @@ title: "Has more calories than actual Macdo"
 image: /assets/images/bigmac-salad.jpg
 prep_time: "washing lettuce time"
 cook_time: "12 mins"
-servings: "2.5 or 3"
+servings: "2 and a half or 3"
 video_link: "What a blasphemy not to have a video for this one"
 tags: [Non Vegetarian]
 ---
@@ -31,7 +31,7 @@ I haven't eaten MacDonalds since October 2023, but hadn't been to the branch nex
 
 ## Instructions
 
-1. Stop Having Macdonals, you can prepare it home for more expensive, not better but with a clearer conscience
+1. Stop Having Macdonals, you can prepare it home for more expensive, not better but for a clearer conscience
 2. Dress well ti prepare the dressing first
 3. In a small bowl, mix the labne, mayo, mustard, sugar, salt, black pepper, paprika, and pickle juice and mix well
 4. Let the dressing rest, at least she can get some, not like you girl. Why so tired? go rest!
@@ -42,14 +42,3 @@ I haven't eaten MacDonalds since October 2023, but hadn't been to the branch nex
 9. Dice your pickles and onions 
 10. I'm tired and you the drill, mix everything together now.
 11. If you have some cheese, shave some cheese on top. If not, then don't shave some cheese on top.
-
-
-
-
-
-
-
-
-
-
-
