@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kabaret Sandwich"
+title: "Has more calories than actual Macdo"
 image: /assets/images/bigmac-salad.jpg
 prep_time: "washing lettuce time"
 cook_time: "12 mins"
