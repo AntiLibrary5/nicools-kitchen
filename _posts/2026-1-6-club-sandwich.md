@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kitchen Sandwich"
+title: "Kabaret Sandwich"
 image: /assets/images/club-sandwich.jpg
 prep_time: "not much"
 cook_time: "not much"
