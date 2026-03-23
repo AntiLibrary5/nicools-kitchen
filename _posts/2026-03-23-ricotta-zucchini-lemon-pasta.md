@@ -27,7 +27,7 @@ I convinced my french manager that inshallah means no, so now whenever she wants
 ### For the ricotta cheese
 
 1. At this point, if you don't know that I already posted the recipe on my blog, then I don't know what you're still doing here? 
-2. Please visit this amazing scientific journal "https://theboxtroll.com/nicools-kitchen/" and scroll (because search feature is not available in this well designed scientific journal) to find this a very smart article called: I'm always right, so is my ricotta. 
+2. Please visit this amazing scientific journal "https://theboxtroll.com/nicools-kitchen/" and scroll (because search feature is not available in this well designed scientific journal) to find a very smart article titled: I'm always right, so is my ricotta. 
 3. Which is true btw, one because I said so, two, because an amazing scientific journal said so 
 
 
@@ -42,7 +42,7 @@ I convinced my french manager that inshallah means no, so now whenever she wants
 7. Once they're 92.54% cooked, grate the garlic clove, and continue cooking till your reach 100%. We have a late stage garlic dish, because we like the garlic taste. 
 8. Sometime in between cooking the zucchinis, cook your pasta, al dente of coursi 
 9. Now get a bigger stainless steel bowl, mix you homemade ricotta, it's actually nicolemade, why do I keep saying homemade? 
-10. Ok so mix my ricotta, with salt, black pepper (a like the kick of it), some olive oil, 1 whole lemon, and zest of the lemon. 
+10. Ok so mix my ricotta, with salt, black pepper (a like the kick of it), some olive oil, 1 whole lemon, and the zest of the lemon. 
 12. Add one cup of your pasta water and mix well
 13. Add the cooked zucchinis and mix well 
 14. Add the cooked pasta and mix well 
