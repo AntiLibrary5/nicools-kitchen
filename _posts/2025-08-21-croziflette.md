@@ -5,7 +5,7 @@ image: /assets/images/croziflette.jpg
 prep_time: "30 mins"
 cook_time: "25 mins"
 servings: "All for me"
-video_link: "I will soon post the video, in the meantime, you can dream about it"
+video_link: "https://www.instagram.com/reel/DVlZZRKjL9Y9TCN_6jyzKALdWRcTrvt5yAx1pw0/?igsh=dWc5ZzA0eGk2Nzh2"
 tags: [Non Vegetarian]
 ---
 
