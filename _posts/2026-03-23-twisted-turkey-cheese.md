@@ -5,7 +5,7 @@ image: /assets/images/twisted-turkey-and-cheese.jpg
 prep_time: "2 microseconds"
 cook_time: "2 milliseconds per side"
 servings: "The queen"
-video_link: "Ihttps://www.instagram.com/reel/DU3mA4sDNYjjh67RzVnxOBAeaGa3NzpWDl3kw00/?igsh=YjU5bmZvZ244anI5"
+video_link: "https://www.instagram.com/reel/DU3mA4sDNYjjh67RzVnxOBAeaGa3NzpWDl3kw00/?igsh=YjU5bmZvZ244anI5"
 tags: [Non Vegetarian]
 ---
 
