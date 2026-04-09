@@ -44,7 +44,7 @@ Apparently a day in Lama's life is really cool and comforting. Since my "deadly"
 8. While Lama is doing steps 5, 6, and 7, go watch AL Jazeera, because gurl, you deserve it, it's tiring to be chauffeured around. 
 9. For the Guac, there's no guac hehehehe 
 10. Mash the avocado with a bit of salt and black pepper, and mix mix mix mix mix mix mix mix mix mix 
-11. For the pico de gallo (prounouced gayo, you illetrate human being), dice the tomato and the onion, mix it with salt, black pepper, the vinegar, and ketchup, then go thanks Lama's mom for what used to be her secret ingrdient
+11. For the pico de gallo (prounouced gayo, you illetrate human being), dice the tomato and the onion, mix it with salt, black pepper, the vinegar, and ketchup, then go thanks Lama's mom for what used to be her secret ingredient
 12. Lama called this ranch sauce, but I prefer to call it ranch sauce: mix the greek yo, the ma yo, the onion powder, the garlic powder, the salt, together, and that's it 
 13. Now plate everything, no sorry, have Lama plate everything, because she likes law and order 
 14. Sit and eat
