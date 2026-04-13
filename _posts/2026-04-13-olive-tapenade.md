@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Si Eunade te tape, tape Eunade"
-image: /assets/images/burrito-bowl.jpg
+image: /assets/images/olive-tapenade.jpg
 prep_time: "5 minutes"
 cook_time: "0 minutes"
 servings: "1 or 2 or 3"
@@ -9,7 +9,7 @@ video_link: "https://www.instagram.com/reel/DXEIqcJDMwooCCjIydqFvRvd3K9c3yihVhw4
 tags: [Vegetarian] 
 ---
 
-I come from the Koura district, a region known for its olive tree fields. So obviously I woke up today graving some tapenade, a dish that my ancestors never heard of. Coming from the land of olive trees, I went to the supermarket and bought some imported olives, grandpa would be proud. Turned these olives into a puree, that apparently people who hate Eunade, call it Tape Eunade. 
+I come from the Koura district, a region known for its olive tree fields. So obviously I woke up today craving some tapenade, a dish that my ancestors never heard of. Coming from the land of olive trees, I went to the supermarket and bought some imported olives, grandpa would be proud. Turned these olives into a puree, that apparently people who hate Eunade, call it Tape Eunade. 
 
 ## Ingredients
 
