@@ -6,7 +6,7 @@ prep_time: "1 hour"
 cook_time: "8 minutes"
 servings: "Mira"
 video_link: "they need a movie or a series and not a 30 second reel"
-tags: [ Non Vegetarian] 
+tags: [Non Vegetarian] 
 ---
 
 I got this idea of starting a run club in Koura, so in order to prepare myself, I started counting my macros. Turns out, I eat 4500 calories a day, and 30g of protein only. Make it make sense... So to boost my protein intake, I woke up at 5 am and had som thighs for breakfast.
