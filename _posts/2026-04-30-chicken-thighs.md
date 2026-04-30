@@ -36,7 +36,7 @@ I got this idea of starting a run club in Koura, so in order to prepare myself, 
 11. Two minutes before being fully cooked, place the butter and garlic and starting basting your thighs
 12. What are you doing? I meant basting the chicken thighs...
 13. Once done, off the heat they go, and back on the rack (please clean it before, because raw chicken = salmonella) 
-14. let them rest for a couple of minutes and EATTTTTTTTTT the thgihs 
+14. let them rest for a couple of minutes and EATTTTTTTTTT the thighs 
 
 
 
