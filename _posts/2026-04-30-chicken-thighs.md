@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Team breasts or Team thighs?"
+title: "Team Breasts or Team Thighs?"
 image: /assets/images/chicken-thighs.jpg
 prep_time: "1 hour"
 cook_time: "8 minutes"
 servings: "Mira"
-video_link: "they need a movie or a series and not a 30 second reel"
+video_link: "they need a movie or a series and not a few second reel"
 tags: [Non Vegetarian] 
 ---
 
