@@ -33,7 +33,7 @@ I got this idea of starting a run club in Koura, so in order to prepare myself, 
 8. Don't place the chicken unless the pan is burning hellllllll, you can let your mom check it, she's probably prone to burns
 9. Place your chickens, and don't flip, not before 3 minutes (here put the heat on medium)
 10. Flip the chickens on the other side, and let them golden brown 
-11. 2 minutes before fully cooked, place the butter and garlic and starting basting your thighs
+11. Two minutes before being fully cooked, place the butter and garlic and starting basting your thighs
 12. What are you doing? I meant basting the chicken thighs...
 13. Once done, off the heat they go, and back on the rack (please clean it before, because raw chicken = salmonella) 
 14. let them rest for a couple of minutes and EATTTTTTTTTT the thgihs 
