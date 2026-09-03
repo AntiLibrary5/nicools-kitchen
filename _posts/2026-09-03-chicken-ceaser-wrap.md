@@ -9,7 +9,7 @@ video_link: "https://www.instagram.com/reel/DbWPUIBMbNoT7KqR38_2sJnBfdzEgAVPZD3l
 tags: [Non Vegetarian] 
 ---
 
-I find it weird when people say I'm weird. Like what's weird in always saying the wrong thing at the wrong time? I honestly don't get them. Yesterday I told our HR director that I'm a poet and that my stage name is Mahmoud Ktir Darwish....where's the weird in that? Enough of that, let me tell you how I hitchhiked all the way to bcharre, but before that, here's my shredded chcicken ceaser wrap.
+I find it weird when people say I'm weird. Like what's weird in always saying the wrong thing at the wrong time? I honestly don't get them. Yesterday I told our HR director that I'm a poet and that my stage name is Mahmoud Ktir Darwish....where's the weird in that? Enough of that, let me tell you how I hitchhiked all the way to bcharre, but before that, here's my shredded chicken ceaser wrap.
 
 ## Ingredients
 
